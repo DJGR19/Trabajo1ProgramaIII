@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\florentino garcia\source\repos\trabajoclase1\trabajobinario\main.cpp(24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\florentino garcia\source\repos\trabajoclase1\trabajobinario\main.cpp(34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\florentino garcia\source\repos\trabajoclase1\trabajobinario\main.cpp(44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\florentino garcia\source\repos\trabajoclase1\trabajobinario\main.cpp(54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  TrabajoBinario.vcxproj -> C:\Users\FLORENTINO GARCIA\source\repos\TrabajoClase1\Debug\TrabajoBinario.exe
